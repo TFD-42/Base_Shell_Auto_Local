@@ -174,6 +174,34 @@ python3 revshell_factory.py -i 10.0.0.5 -p 4444 --store-conf
 
 ---
 
+# Ethical Use Policy
+
+This toolkit is intended **exclusively** for:
+
+- Authorised penetration testing,
+- Security research,
+- Educational purposes,
+- Capture‑the‑Flag (CTF) competitions.
+
+## Prohibited Use
+- Unauthorised access to computer systems (Computer Fraud and Abuse Act, equivalent laws).
+- Any activity that violates the policies of a network or system you do not own or have explicit permission to test.
+- Use for illegal surveillance, data theft, or exploitation.
+
+## Responsible Disclosure
+If you discover a vulnerability using this tool, follow responsible disclosure practices:
+- Notify the affected party promptly.
+- Provide sufficient time for remediation before public disclosure.
+
+## Professionalism
+- Do not use this tool to cause harm.
+- Respect privacy and data integrity at all times.
+- When in doubt, obtain written consent before testing.
+
+**If you cannot adhere to these principles, do not use this software.**
+
+---
+
 ## License
 
 MIT – use at your own risk. This tool is intended for authorised security testing only.
