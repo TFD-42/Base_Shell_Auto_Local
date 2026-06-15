@@ -2,6 +2,8 @@
 
 **Reverse Shell Factory – Ultimate Generator, Enhancer & Compiler**
 
+[![Inspired by RevShells.com](https://img.shields.io/badge/Inspired%20by-RevShells.com-blue?style=for-the-badge&logo=github)](https://www.revshells.com/)
+
 A comprehensive toolkit for penetration testers and red team operators.  
 Generate 50+ reverse shell one‑liners, apply advanced payload enhancements,
 compile Python payloads into standalone binaries, and manage everything
