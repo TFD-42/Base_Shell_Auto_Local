@@ -178,6 +178,21 @@ python3 revshell_factory.py -i 10.0.0.5 -p 4444 --store-conf
 
 ---
 
+## 🔮 Future Enhancements
+
+We are working on integrating **Ollama** for local AI‑assisted generation, capable of dynamically adapting reverse shells to the target’s context. The AI will also drive advanced obfuscation and code mutation to evade EDR systems.  
+Five other innovations are underway:
+
+- **Multi‑hop tunneling** – automatic construction of SSH, Tor, or ngrok chains,
+- **Delivery module** – generation of malicious documents (Word macros, HTA, LNK),
+- **C2 integration** – direct export to Metasploit, Empire, Sliver,
+- **Polymorphic mutation engine** – payloads that change on every execution,
+- **Behavioral analysis** – shell adaptation based on the defences encountered.
+
+Stay tuned for the next releases!
+
+---
+
 # Ethical Use Policy
 
 This toolkit is intended **exclusively** for:
